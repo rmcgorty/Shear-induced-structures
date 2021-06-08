@@ -3,3 +3,4 @@
 *.pyc
 ExampleData/23_osc_100gel_cooling_rollingbgsubtract-200_Bin2x2x2_correlationResults.p
 .ipynb_checkpoints/Analysis of pnipam-xan shearing data-checkpoint.ipynb
+.ipynb_checkpoints/Run length measurements-checkpoint.ipynb
